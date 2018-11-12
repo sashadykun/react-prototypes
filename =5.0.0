@@ -1,0 +1,5 @@
++ ajv@6.5.5
++ webpack@4.25.1
+added 96 packages from 100 contributors, removed 27 packages, updated 6 packages and audited 16714 packages in 26.045s
+found 2 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
