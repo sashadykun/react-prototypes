@@ -1,0 +1,4 @@
+.nav-item .nav-link.selected {
+    color: rgb(12, 82, 12);
+    background-image: linear-gradient(to bottom, rgb(131, 73, 206), #fff);
+}
